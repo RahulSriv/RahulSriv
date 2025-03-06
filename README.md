@@ -1,6 +1,6 @@
 ## Hello world 👋
 
-## 💫 About me:
+## 🤷 About me:
 - 🔭 Currently working on **backend systems, travel tech and virtual payment solutions**  
 - 🌱 Learning **Java, System Design, Spring MVC, GCP Cloud and Life**  
 - 👯 Open to **collaborating on scalable and impactful projects**  
