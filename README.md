@@ -2,7 +2,7 @@
 
 ## 🤷 About me
 - 🔭 Currently working on **backend systems, travel tech and virtual payment solutions**  
-- 🌱 Learning **Java, System Design, Spring MVC, GCP Cloud and Life**  
+- 🌱 Learning **GenAI, Java, System Design, Spring MVC, GCP Cloud and Life**  
 - 👯 Open to **collaborating on scalable and impactful projects**  
 - 💬 Ask me about **Java, Spring, Cloud, APIs and Scalable Systems**  
 - 📢 Reach me at **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-sriv) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulsriv2000@gmail.com)**
